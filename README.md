@@ -1,4 +1,4 @@
-# EthicalNetworkCracking
+# Ethical-net-h4ck1ng
 
 ## Description
 This repository contains a collection of bash and Python scripts for ethical network cracking and penetration testing. 
