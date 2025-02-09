@@ -32,6 +32,7 @@ echo "Enter interface (e.g. wlan0):"
 read interface
 
 sudo arp-scan --interface=$interface $ip_range
+sudo arp -a
 echo "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
 sleep 1
 ##
